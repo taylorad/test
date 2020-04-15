@@ -17,3 +17,5 @@ summary(STM_W, incl.SE=T)
 confint(STM_W, verbose=T)
 
 STM_W$N
+
+## Just editing for gittest gittest 
